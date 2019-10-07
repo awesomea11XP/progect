@@ -1,1 +1,6 @@
-#test
+w = "little lamb"
+print("mary had a", w)
+print(w)
+print(w)
+print("mary had a", w)
+print("whose fleece was white as %s." % 'snow')
