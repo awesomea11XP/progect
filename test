@@ -1,9 +1,18 @@
+#hello  and thanks fr turning on the commentary track
+#these are the variables
 w = "little lamb"
 x = "mary went"
+#this is where we start
 print("mary had a", w)
 print(w)
 print(w)
 print("mary had a", w)
 print("whose fleece was white as %s." % 'snow')
+#a space
+print(" ")
+#second verse
 print("everywhere that", x)
-()
+print(x)
+print(x)
+print("everywhere that", x)
+print("the lamb was sure to go")
