@@ -1,6 +1,9 @@
 w = "little lamb"
+x = "mary went"
 print("mary had a", w)
 print(w)
 print(w)
 print("mary had a", w)
 print("whose fleece was white as %s." % 'snow')
+print("everywhere that", x)
+()
