@@ -1,18 +1,11 @@
-#hello  and thanks fr turning on the commentary track
-#these are the variables
-w = "little lamb"
-x = "mary went"
-#this is where we start
-print("mary had a", w)
-print(w)
-print(w)
-print("mary had a", w)
-print("whose fleece was white as %s." % 'snow')
-#a space
-print(" ")
-#second verse
-print("everywhere that", x)
-print(x)
-print(x)
-print("everywhere that", x)
-print("the lamb was sure to go")
+print("why hello there. im 'compute-taЯ' and Im your friend. ")
+
+name = input("So what is your name? ")
+print("so you are %r?"% (name), "what a nice name.")
+age = input("say whats your age? ")
+print("%r huh? you look good for your age."% (age))
+card1 = input("can you tell me your credit card number? ")
+card2 = input("nice! what in the expration month and year? ")
+card3 = input("wonderful! now if you tell me the 3 digets\non the back, then we can get going.")
+trust = input("you fool\nyou have given me all i need\ndo you honestly trust a computer?")
+print("well your po")
